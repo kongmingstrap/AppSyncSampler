@@ -1,3 +1,3 @@
 # AppSyncSampler
 
-
+- GraphQL sample
